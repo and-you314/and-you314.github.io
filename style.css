@@ -65,13 +65,13 @@ tr {
   background-color: #fff;
 }
 tr:nth-child(2n) {
-  background-color: #6a5acd;
+  background-color: #fff;
 }
 th {
   background: var(--theme-color);
   color: #fff;
 }
 th, td {
-  border: solid 1px #6a5acd;
+  border: solid 1px #fff;
   padding: 0.5rem;
 }
